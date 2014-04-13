@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">SnagTagNFC</string>
+
+    <string name="writeToTag">Write To Tag</string>
+    <string name="nfc">Write to NFC</string>
+    <string name="write">To Write to NFC Tag type the text and hit the write button once the progressbar appears tap the nfc tag to the phone. To Read just tap the tag on the phone.</string>
+
+</resources>
