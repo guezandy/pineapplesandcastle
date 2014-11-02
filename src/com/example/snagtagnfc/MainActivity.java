@@ -120,7 +120,7 @@ public class MainActivity extends Activity {
 		} 
 	}
 
-	private static final String MIME_TYPE = "application/com.example.snagtag.tag";
+	private static final String MIME_TYPE = "application/com.snagtag.tag";
 
 	/**
 	 * Write to an NFC tag; reacting to an intent generated from foreground
